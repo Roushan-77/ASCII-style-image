@@ -1,5 +1,8 @@
 # ASCII Style Image – Rahul Dravid
 
+## Blog
+- [for blog click here](https://medium.com/@roushan771042/ascii-style-image-rahul-dravid-ca14c97645f4)
+
 ## Overview
 
 This project demonstrates how an image can be recreated using **ASCII art** instead of pixels.  
